@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Devlab
 description: 두서없이 정리하는 연습장입니다.
-baseurl: "/jsp-devlab" # the subpath of your site, e.g. /blog
-url: "https://PARKJOONSANG.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://parkjoonsang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 
